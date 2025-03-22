@@ -1,0 +1,14 @@
+# Ignore environment and node dependencies
+.env
+node_modules/
+uploads/
+
+# Logs
+*.log
+
+# React build output
+frontend/build/
+
+# OS-specific
+.DS_Store
+
